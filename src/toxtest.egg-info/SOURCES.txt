@@ -1,0 +1,9 @@
+setup.py
+src/network/__init__.py
+src/network/ethernet.py
+src/network/wifi.py
+src/toxtest.egg-info/PKG-INFO
+src/toxtest.egg-info/SOURCES.txt
+src/toxtest.egg-info/dependency_links.txt
+src/toxtest.egg-info/entry_points.txt
+src/toxtest.egg-info/top_level.txt
